@@ -33,3 +33,4 @@ The port number for localhost deployment will be displayed on screen and can be 
 library(rsconnect)
 rsconnect::deployApp('/full/path/to/the/app/folder') 
 ```
+Deployed App can be viewed at: https://kushalhm.shinyapps.io/vanwatch/
