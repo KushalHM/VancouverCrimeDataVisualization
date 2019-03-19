@@ -16,7 +16,7 @@ Crime mapping for Vancouver between 2003-2019
 ## File details
 
 1) app.R - main code file
-2) crime.csv - data file
+2) crime.csv - data file - Download this file from the Vancouver City Open data catalogue
 
 ## How to run
 
